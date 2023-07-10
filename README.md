@@ -9,7 +9,7 @@
 
 - 📊 Between 2022/23 I positioned a transactional website reaching peaks of 120 monthly visits. [Results of the project](https://www.linkedin.com/pulse/seo-es-f%2525C3%2525A1cil-posicionar-una-web-nicol%2525C3%2525A1s-cereijo-ranchal%3FtrackingId=4DkH9dB9RPqYWK1iUyvgyw%253D%253D/?trackingId=4DkH9dB9RPqYWK1iUyvgyw%3D%3D)
 
-- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/nicol%C3%A1s-cereijo-ranchal-1a28a5235/](https://www.linkedin.com/in/nicol%C3%A1s-cereijo-ranchal-1a28a5235/)
+- 📝 I regularly write articles on [LinkedIn](https://es.linkedin.com/in/nicol%C3%A1s-cereijo-ranchal-1a28a5235)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
