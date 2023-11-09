@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico!</h1>
-<h3 align="left">Computer engineering student at the Higher Polytechnic School of the Alcalá de Henares University. 🎓
-
-I have participated in the robotics team of the University of Alcalá UAHR Krakens with the aim of designing and developing the control screens for competition robots in the year 2023. 🤖
+<h3 align="left">Computer engineering student at the Higher Polytechnic School of the Alcalá de Henares University. 🎓<br/><br/>I have participated in the robotics team of the University of Alcalá UAHR Krakens with the aim of designing and developing the control screens for competition robots in the year 2023. 🤖
 
 My main passion is programming, I have worked with languages such as Java, C, C++, Python, R, SQL and some of their derivatives such as PL/pgSQL in PostgreSQL, Java being the one I have the best command of. The programming paradigm I have used the most is OOP, although I have also worked with concurrent programming. I also have knowledge in web development, HTML, CSS, Markdown and basic knowledge of JavaScript. 🖥️
 
