@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico!</h1>
-<h3 align="left">Computer engineering student at the Higher Polytechnic School of the Alcalá de Henares University. 🎓
+Computer engineering student at the Higher Polytechnic School of the Alcalá de Henares University. 🎓
 
 I have participated in the robotics team of the University of Alcalá UAHR Krakens with the aim of designing and developing the control screens for competition robots in the year 2023. 🤖
 
@@ -7,7 +7,7 @@ My main passion is programming, I have worked with languages such as Java, C, C+
 
 I have had the opportunity to learn to solder, wire and assemble simple hardware systems during my stay in the university team, in addition to developing some of my soft skills. I have faced the delivery of projects with deadlines for the team where I have had to maintain continuous communication for the satisfactory delivery of my work. 📊
 
-I am an open, social and communicative person, I love teamworking, sharing, teaching my work and learning from others. 😁</h3>
+I am an open, social and communicative person, I love teamworking, sharing, teaching my work and learning from others. 😁
 
 - 🔭 I’m currently working on [Eurobot 2023/24](https://github.com/Yggdrasil-Robotics)
 
